@@ -1,0 +1,208 @@
+#title {
+  background-color: #ff4c68;
+}
+
+h1 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-family: "Montserrat-Black";
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #fff;
+}
+
+h3 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: bold;
+}
+
+.container-fluid {
+  padding: 3% 15% 5%;
+}
+
+#title {
+  margin: auto;
+}
+
+.navbar {
+  padding: 0px;
+  margin-bottom: 75px;
+}
+
+.nav-item {
+  padding: 0px 30px;
+}
+
+.nav-link {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+
+.title-tindog {
+  color: white;
+  margin-bottom: 30px;
+}
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+.my-col-alignment {
+  text-align: center;
+}
+
+.icons-color:hover {
+  color: #ff4c68;
+}
+
+.icons-color {
+  color: #ef8172;
+  font-size: 100px;
+}
+
+.features {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding-top: 10px;
+}
+
+#features {
+  padding: 100px 0;
+  background-color: #fff;
+  position: relative;
+}
+
+.features-paragraph {
+  color: #8f8f8f;
+  margin: auto;
+  width: 200px;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 5%;
+}
+
+.press-image {
+  width: 15%;
+  padding: 3% 2%;
+}
+
+.testimonial-signature {
+  font-size: 20px;
+}
+
+.carousel-item {
+  padding-top: 100px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.previousBTN {
+  padding-top: 220px;
+}
+
+.nextBTN {
+  padding-top: 220px;
+}
+
+.plans{
+  color: #8f8f8f;
+}
+
+.price{
+  color: black;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+.col-lg-4 {
+  padding: 3% 2%;
+}
+
+.card {
+  text-align: center;
+}
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+#cta {
+  background-color: #ff4c68;
+  padding: 5% 20%;
+}
+
+.cta-header {
+  text-align: center;
+  color: #fff;
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.buttonCenter {
+  text-align: center;
+}
+
+.myBtnPadding {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#footer {
+  padding: 5% 3%;
+  background-color: #fff;
+  text-align: center;
+}
+
+.footer-icons {
+  padding: 3% 1%;
+}
+
+.pricing-title2 {
+  text-align: center;
+}
